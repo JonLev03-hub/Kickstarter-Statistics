@@ -19,7 +19,7 @@
   
   ###### Goal Vs Success
   
-  When thinking of other ways that we may be able to increase the success rate of a kickstarter campaign we looked into how the goal of the campaign may effect the success of the campaign. First we found some descriptive statistics around the campaign goals. We found that the campaigns with a lower goal tend to me more successful, the exact numbers are listed below 
+  When thinking of other ways that we may be able to increase the success rate of a kickstarter campaign we looked into how the goal of the campaign may effect the success of the campaign. First we found some descriptive statistics around the campaign goals. We found that the campaigns with a lower goal tend to me more successful, the exact numbers are listed below. The column on the left shows the successful campaigns and the column on the right shows the failed campaigns.
 
 ![image](https://user-images.githubusercontent.com/81537476/134839345-e60d6a16-a5e2-4feb-ac5c-06e9ffb96fce.png)
 
